@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "客制化键盘数据库",
+    "logo_name": "XiaoFeng",
+    "role": "一站式查询客制化键盘",
     "about": {
         "sections": {
             "professional-info": {
@@ -72,7 +72,17 @@
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "XiaoFeng9009"
+            },
+            "zfrontier": {
+                "title": "zfrontier profile",
+                "url": "https://www.zfrontier.com/app/user/",
+                "user": "9EKqrwoNmJR61"
+            },
+            "bilibili": {
+                "title": "bilibili profile",
+                "url": "https://space.bilibili.com/",
+                "user": "12142948"
             },
             "facebook": {
                 "title": "Facebook profile",

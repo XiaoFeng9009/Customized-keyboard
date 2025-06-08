@@ -8,7 +8,7 @@
             </NuxtLink>
 
             <NuxtLink id="nav-link" to="/" :class="{ active: isActive('/') }">
-              _hello
+              _welcome
             </NuxtLink>
   
             <NuxtLink id="nav-link" to="/about-me" :class="{ active: isActive('/about-me') }">

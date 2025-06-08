@@ -9,7 +9,7 @@
 		
 			<div class="head">
 				<span>
-					Hi all, I am
+					Hi, I am XiaoFeng, 这是一份
 				</span>
 				<h1>{{ config.name }}</h1>
         <span class="diple flex">
@@ -20,13 +20,13 @@
 
 			<div id="info">
 				<span class="action">
-					// complete the game to continue
+					// 按照工作室、配列分类整理了一些基本的客制化键盘数据
 				</span>
 				<span :class="{hide: isMobile}">
-					// you can also see it on my Github page
+					// 内容待定
 				</span>
 				<span :class="{hide: !isMobile}">
-					// find my profile on Github:
+					// 内容待定
 				</span>
 				<p class="code">
 					<span class="identifier">
@@ -45,9 +45,9 @@
 			</div>
 		</section>
 
-		<section data-aos="fade-up" class="game" v-if="!isMobile">
+		<!-- <section data-aos="fade-up" class="game" v-if="!isMobile">
 			<SnakeGame />
-		</section>
+		</section> -->
 
 	</main>
 </template>

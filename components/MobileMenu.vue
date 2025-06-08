@@ -15,7 +15,7 @@
     <!-- mobile menu -->
     <div id="menu" class="bg-mobile-menu-blue z-10 hidden">
       <NuxtLink id="nav-link-mobile" to="/" :class="{ active: isActive('/') }" @click="toggleMobileMenu()">
-        _hello
+        _welcome
       </NuxtLink>
 
       <NuxtLink id="nav-link-mobile" to="/about-me" :class="{ active: isActive('/about-me') }"
